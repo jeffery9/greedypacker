@@ -6,7 +6,7 @@ Solomon Bothwell
 
 ssbothwell@gmail.com
 
-![Maximal Rectangle Rendering](https://raw.githubusercontent.com/ssbothwell/greedypacker/master/static/maximal_rectangleAlgorithm-bottom_leftHeuristic.png)
+![Maximal Rectangle Rendering](static/maximal_rectangleAlgorithm-bottom_leftHeuristic.png)
 
 A 2D bin packing library based on on Jukka Jylänki's article ["A Thousand
 Ways to Pack the Bin - A Practical Approach to Two-Dimensional Rectangle Bin
@@ -42,10 +42,10 @@ Out[8]: [Sheet(width=8, height=4, shelves=[{'y': 2, 'x': 8, 'available_width': 0
 
 #### Algorithms
 
-##### ["Shelf"](https://github.com/ssbothwell/greedypacker/blob/master/docs/shelf.md)
-##### ["Guillotine"](https://github.com/ssbothwell/greedypacker/blob/master/docs/guillotine.md)
-##### ["Maximal Rectangles"](https://github.com/ssbothwell/greedypacker/blob/master/docs/maximal_rectangles.md)
-##### ["Skyline"](https://github.com/ssbothwell/greedypacker/blob/master/docs/skyline.md)
+##### ["Shelf"](docs/shelf.md)
+##### ["Guillotine"](docs/guillotine.md)
+##### ["Maximal Rectangles"](docs/maximal_rectangles.md)
+##### ["Skyline"](docs/skyline.md)
 
 
 #### General Optional Parameters:

@@ -1,5 +1,5 @@
 ### Maximal Rectangles Algorithm
-  ![Maximal Rectangle Rendering](https://raw.githubusercontent.com/ssbothwell/greedypacker/master/static/maximal_rectangleAlgorithm-bottom_leftHeuristic.png)
+  ![Maximal Rectangle Rendering](../static/maximal_rectangleAlgorithm-bottom_leftHeuristic.png)
 
   Rather then choosing a split axis like in the Guillotine Algorithm, Maximal
   Rectangles adds both possible splits to the list of FreeRectangles. This

@@ -1,6 +1,6 @@
 ### Guillotine Algorithm
 
-  ![Guillotine Rendering](https://raw.githubusercontent.com/ssbothwell/greedypacker/master/static/guillotineAlgorithm-best_shortsideHeuristic.png)
+  ![Guillotine Rendering](../static/guillotineAlgorithm-best_shortsideHeuristic.png)
 
   Place items into the bin starting with its lower left corner.
   For each insertion, split the bin into smaller sections

@@ -1,6 +1,6 @@
 ### Skyline Algorithm
 
-  ![Skyline Rendering](https://raw.githubusercontent.com/ssbothwell/greedypacker/master/static/skylineAlgorithm-bottom_leftHeuristic.png)
+  ![Skyline Rendering](../static/skylineAlgorithm-bottom_leftHeuristic.png)
 
   Rather then track a list of all FreeRectangles or Shelves, the Skyline
   algorithm packs the list from bottom to top and only tracks the top edge of

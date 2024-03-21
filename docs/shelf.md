@@ -1,5 +1,5 @@
 ### Shelf Algorithm
-  ![Shelf Rendering](https://raw.githubusercontent.com/ssbothwell/greedypacker/master/static/shelfAlgorithm-next_fitHeuristic.png)
+  ![Shelf Rendering](../static/shelfAlgorithm-next_fitHeuristic.png)
 
   Divide the bin into horizontal rows with heights equal to the
   first Item inserted. Track the rows in a list and choose a
